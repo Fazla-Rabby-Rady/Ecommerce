@@ -1,0 +1,47 @@
+const Data = [
+    {
+        id:1,
+        img:"/images/gallery-1.jpg",
+        img2:"/images/gallery-2.jpg",
+        title:"Long Sleeve Graphic T-shirt",
+        desc:"Long Sleeve Graphic T-Shirt",
+        isNew:true,
+        oldPrice:19,
+        price:12,
+    },
+    {
+        id:2,
+        img:"/images/e11.jpg",
+        title:"Long Sleeve Graphic T-shirt",
+        desc:"Long Sleeve Graphic T-Shirt",
+        isNew:true,
+        oldPrice:19,
+        price:12,
+    },
+    {
+        id:3,
+        img:"/images/e12.jpg",
+        title:"Graphic T-shirt",
+        desc:"Graphic T-Shirt",
+        oldPrice:19,
+        price:12,
+    },
+    {
+        id:4,
+        img:"/images/e2.webp",
+        title:"T-shirt",
+        desc:"T-Shirt",
+        oldPrice:19,
+        price:12,
+    },
+    {
+        id:5,
+        img:"/images/user-2.png",
+        title:"Sleeve Graphic T-shirt",
+        desc:"Sleeve Graphic T-shirt",
+        isNew:true,
+        oldPrice:19,
+        price:12,
+    },
+]
+export default Data;
